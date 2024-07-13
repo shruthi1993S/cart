@@ -1,0 +1,24 @@
+/* src/App.css */
+.App {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    
+  }
+  
+  .App-header {
+    background-color: #1f5f3f;
+    padding: 10px;
+    color: white;
+  }
+  
+ 
+  .cart h2{
+    text-align: right;
+   
+  }
+  .cart p{
+    text-align: right;
+   
+  }
+
+  
